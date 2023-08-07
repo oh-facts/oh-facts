@@ -3,6 +3,7 @@
 **oh-facts/oh-facts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 So, I don't forget
 
+OS: plugin-based and works perfectly on every device ever. Devs don't need to worry about cross compiling/ "it works on my machine"
 Website (For my stuff)
 My space clone website (retro social media)
 BS Engine (ball square engine): 
